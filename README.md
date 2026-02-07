@@ -158,6 +158,8 @@ Platform health intelligence
 
 Built for the Deriv AI Talent Sprint Hackathon.
 
+---
+
 
 MIT License
 
